@@ -1,0 +1,13 @@
+Ballerine,Sabato,2200,10
+Ballerine,Lunedi,1000,10
+Ballerine,Lunedi,1000,10
+Il cigno nero,Mercoledi,1700,10
+Il cigno nero,Mercoledi,1700,10
+Ritorno al futuro,Giovedi,1800,10
+Ballerine,Sabato,2200,10
+Il cigno nero,Mercoledi,1700,10
+Ballerine,Lunedi,1000,10
+Il cigno nero,Mercoledi,1700,10
+Ritorno al futuro,Sabato,1500,10
+Ritorno al futuro,Sabato,1500,10
+Il cigno nero,Mercoledi,1700,10

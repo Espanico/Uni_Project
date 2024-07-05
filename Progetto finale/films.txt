@@ -1,0 +1,3 @@
+Iron Man,Supereroi,Rober Downey Jr,100,1
+Ritorno al futuro,Fatnascienza,Michael J. Fox,110,0
+Transformers,Fantascienza,Lebauff,100,0
